@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Lat!
 
-I'm a Data Analyst based in London, working within financial services. Here you'll find various projects and examples of work showcasing the skills I've learned over the years.
+I'm a Data Analyst based in London, working within financial services. Here you'll find various projects and examples of work, showcasing the skills I've learned over the years.
 
 ### 🌟 Toolkit
 - **Programming**: SQL, Python, R
