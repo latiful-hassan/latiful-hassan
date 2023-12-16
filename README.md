@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hello, I'm Lat!
 
-<!--
-**latiful-hassan/latiful-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst based in London, working within financial services. With a strong analytical mindset and a knack for extracting insights from data, I thrive on transforming complex information into actionable strategies.
 
-Here are some ideas to get you started:
+# 🌟 Toolkit
+• Programming: SQL, Python, R
+• Dialects: PostgreSQL, MySQL, TSQL, MariaDB, Athena
+• Visualisation: QuickSight, Tableau, Power BI, Superset, FullStory
+• Tools: AWS, MSSMS, DBeaver, VS Code, Excel, Power Query, Jira, Notion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Find Me Online
+LinkedIn: [](https://www.linkedin.com/in/latiful/)
+Tableau: [](https://public.tableau.com/app/profile/latiful.hassan)
