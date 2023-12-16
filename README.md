@@ -9,5 +9,5 @@ I'm a Data Analyst based in London, working within financial services. With a st
 • Tools: AWS, MSSMS, DBeaver, VS Code, Excel, Power Query, Jira, Notion
 
 ### 🌐 Find Me Online
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/latiful/)
-Tableau: [Tableau](https://public.tableau.com/app/profile/latiful.hassan)
+- [LinkedIn](https://www.linkedin.com/in/latiful/)
+- [Tableau](https://public.tableau.com/app/profile/latiful.hassan)
